@@ -1,0 +1,27 @@
+{
+  "name": "assetgraph-builder-docker",
+  "version": "0.0.0",
+  "description": "Use AssetGraph Builder through the Docker image.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "bin": {
+      "buildProduction": "cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavnikolaj/assetgraph-builder-docker.git"
+  },
+  "keywords": [
+    "assetgraph",
+    "builder",
+    "docker"
+  ],
+  "author": "Gustav Nikolaj <gustavnikolaj@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustavnikolaj/assetgraph-builder-docker/issues"
+  },
+  "homepage": "https://github.com/gustavnikolaj/assetgraph-builder-docker#readme"
+}
