@@ -4,10 +4,11 @@
   "description": "Use AssetGraph Builder through the Docker image.",
   "main": "index.js",
   "scripts": {
+    "postinstall": "docker pull assetgraph/assetgraph-builder",
     "test": "mocha"
   },
   "bin": {
-      "buildProduction": "cli.js"
+    "buildProduction": "cli.js"
   },
   "repository": {
     "type": "git",
