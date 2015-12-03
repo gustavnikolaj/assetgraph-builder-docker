@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/gustavnikolaj/assetgraph-builder-docker/issues"
   },
-  "homepage": "https://github.com/gustavnikolaj/assetgraph-builder-docker#readme"
+  "homepage": "https://github.com/gustavnikolaj/assetgraph-builder-docker#readme",
+  "devDependencies": {
+    "onelint": "0.0.6"
+  }
 }
