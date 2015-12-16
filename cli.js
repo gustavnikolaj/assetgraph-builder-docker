@@ -10,6 +10,7 @@ var commandArgs = [
     'run', '--rm',
     '-v', process.cwd() + ':/app/',
     '-w', '/app',
+    '-e', 'NODE_PATH=/app/node_modules',
     '-u', process.getuid() + ':' + process.getgid(),
     'assetgraph/assetgraph-builder',
 ];
