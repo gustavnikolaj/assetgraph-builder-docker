@@ -1,6 +1,6 @@
 {
   "name": "assetgraph-builder-docker",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Use AssetGraph Builder through the Docker image.",
   "main": "index.js",
   "scripts": {
