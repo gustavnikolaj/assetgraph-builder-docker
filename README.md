@@ -1,3 +1,9 @@
+### IMPORTANT!
+
+This project is a proof of concept of an idea which I haven't pursued further.
+Do not use this for anything except inspiration for a new project in a
+similar vein. 
+
 # assetgraph-builder-docker
 
 A thin wrapper around the
